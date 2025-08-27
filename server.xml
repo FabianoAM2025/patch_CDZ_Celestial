@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serverlist version="40">
+    <announcement url="http://seiya.wanmei.com/launcher/zsannouncement.xml"/>
+    <district name="Brazil">
+        <server name="Celestial" zoneid="1" recommend="true" new="true" desc="火爆公测中">
+            <address name="1线" ip="51.222.248.227" port="29000"/>
+            <address name="1线" ip="51.222.248.227" port="29000"/>
+        </server> 
+         <server name="CROSS SERVER" zoneid="2" cross_server="true" recommend="true" new="true" desc="CS">
+            <address name="CS1" ip="144.217.179.65" port="29000"/>
+        </server>
+    </district>
+</serverlist>
